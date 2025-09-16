@@ -1,0 +1,13 @@
+__pycache__
+models
+logs
+data
+
+*.log
+*.pkl
+*.pth
+*.dat
+*.wav
+
+*.csv
+*.edf
