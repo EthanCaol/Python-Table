@@ -3,6 +3,7 @@ models
 logs
 data
 
+*.pt
 *.log
 *.pkl
 *.pth
